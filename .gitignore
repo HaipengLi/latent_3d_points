@@ -1,3 +1,6 @@
+.idea/
+.vscode/
+output/
 .project
 .ipynb_checkpoints
 .DS_Store
